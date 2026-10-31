@@ -1,0 +1,7 @@
+product_id,name_en,name_hi,name_mr,price,cost,stock,lead_days,festival_uplift
+parle,Parle-G,पार्ले-जी,पार्ले-जी,10,8,38,2,1.3
+milk,Amul milk,अमूल दूध,अमूल दूध,32,29,70,1,1.15
+maggi,Maggi,मैगी,मॅगी,14,11,90,3,1.1
+tea,Tata Tea 250g,टाटा चाय 250g,टाटा चहा 250g,135,112,30,3,1.15
+atta,Atta 5kg,आटा 5kg,आटा 5kg,285,250,6,2,1.25
+sweets,Sweets box,मिठाई बॉक्स,मिठाई बॉक्स,120,90,24,2,2.0

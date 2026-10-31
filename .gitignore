@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+data/saathi.db
+data/*.db
+data/.jwt_secret
